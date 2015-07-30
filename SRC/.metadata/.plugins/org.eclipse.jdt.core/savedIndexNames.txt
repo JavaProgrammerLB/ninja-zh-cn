@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+E:\GithubResp20150614\ninja-zh-cn\SRC\.metadata\.plugins\org.eclipse.jdt.core
+1727155010.index
